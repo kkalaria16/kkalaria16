@@ -2,13 +2,13 @@
 
 ### Hi there! 👋 Welcome to my profile!
 
-* 🌱 I’m currently learning intersting things in the fields of AI, probability, and statistics.
+* 🌱 I’m currently learning intersting things in the fields of AI, probability, and statistics ...
 
-* 🔭 I’m currently working on a some of my own projects to apply my learning.
+* 🔭 ... and am currently working on a some of my own projects to apply my learning.
 
 * 🤔 I’m looking for good AI projects to collaborate on, and freelancing opportunities.
 
-* 📫 Email me at kirtan.kalaria@gmail.com or give me a call on +91-987-907-0633
+* 📫 Feel free to reach out to me via email at kirtan.kalaria@gmail.com or call me on +91-987-907-0633
 
 * 😄 Pronouns: he/him/his
 
