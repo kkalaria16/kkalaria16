@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://media.giphy.com/media/e6tWc6BpjyluE/giphy.gif)
+
+ Hi there! 👋 Welcome to my profile!
 
 <!--
 **kkalaria16/kkalaria16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
