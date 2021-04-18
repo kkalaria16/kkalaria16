@@ -4,7 +4,7 @@
 
 * 🌱 I’m currently learning intersting things in the fields of AI, probability, and statistics ...
 
-* 🔭 ... and am currently working on a some of my own projects to apply my learning.
+* 🔭 ... and am currently working on a some of my own projects (mostly computer vision) to apply my learning.
 
 * 🤔 I’m looking for good AI projects to collaborate on, and freelancing opportunities.
 
